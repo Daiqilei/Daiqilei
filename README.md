@@ -5,9 +5,7 @@
 - 📫 How to reach me 
 -   You could send email to me @daiqilei233@qq.com 
 
-- 你好，这里是 芝士🍞
-- 国内四非本科大三在读
-- 408考研ing
+
 - 编程小白
 <!---
 Daiqilei/Daiqilei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
